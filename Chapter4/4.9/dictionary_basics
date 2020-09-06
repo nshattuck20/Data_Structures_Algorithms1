@@ -1,0 +1,8 @@
+'''
+Simple program demonstrating the basics of Dictionaries. 
+'''
+
+players = {'Lionel Messi' : 10, 
+		   'Cristiano Ronaldo' : 7
+		   }
+print(players)		   	
